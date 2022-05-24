@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="30px">, I'm Akash Raghav</h1>
+<h1 align="center">Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40px">, I'm Akash Raghav</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://github.com/raghav-akash/raghav-akash/blob/main/Night-Coding.gif" align="right"/>
@@ -15,6 +15,9 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+ </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -41,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align = 'left'>
 <a href = https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href ="mailto:raghavakash15995@gmail.com" target='blank'> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" height='45' weight='45'/></a>
+<a href ="mailto:raghavakash159@gmail.com" target='blank'> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" height='45' weight='45'/></a>
   
 <!--
 **raghav-akash/raghav-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
