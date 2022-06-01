@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40px">, I'm Akash Raghav</h1>
+<h1 align="center">Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40">, I'm Akash Raghav</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://github.com/raghav-akash/raghav-akash/blob/main/Night-Coding.gif" align="right"/>
