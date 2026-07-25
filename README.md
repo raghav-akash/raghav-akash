@@ -36,94 +36,13 @@ I enjoy designing applications that combine scalable engineering with practical 
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡️ PhishHook
-
-A production-style phishing URL detection platform built using Machine Learning.
-
-### Features
-
-- XGBoost phishing classifier
-- SHAP explainability
-- Redis caching
-- Flask REST API
-- Modern React frontend
-- Threshold tuning for improved phishing detection
-- Clean and responsive UI
-
----
-
-## 🤖 AI RAG Assistant
-
-A Retrieval-Augmented Generation chatbot capable of context-aware conversations.
-
-### Features
-
-- FastAPI backend
-- FAISS vector search
-- Sentence Transformers embeddings
-- Persistent memory using SQLite
-- Modular backend architecture
-- Context-aware responses
-
----
-
-## 📊 Risk Intelligence Platform
-
-Enterprise governance and risk automation platform.
-
-### Features
-
-- Automated GRC workflows
-- Risk scoring engine
-- Enterprise reporting
-- Interactive Power BI dashboards
-- Data automation pipelines
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,react,docker,redis,aws,mysql,git,linux"/>
 </p>
 
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,redis"/>
-</p>
-
-### AI / Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- SHAP
-- FAISS
-- Sentence Transformers
-- NumPy
-- Pandas
+**Machine Learning:** Scikit-Learn • XGBoost • FAISS • Sentence Transformers • SHAP
 
 ---
 
@@ -143,49 +62,20 @@ Enterprise governance and risk automation platform.
 
 </p>
 
----
-
-# 🎯 Currently Exploring
-
-- 🤖 Applied Artificial Intelligence
-- 🧠 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ AI Agents
-- 🚀 Machine Learning Engineering
-- ☁️ AWS Cloud
-- 🏗️ Backend System Design
-- 📦 MLOps
 
 ---
 
-# 💡 Philosophy
 
-```text
-Build things that solve real problems.
-
-Write clean code.
-Keep learning.
-Stay curious.
-Never stop building.
-```
-
----
-
-# 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="left">
-
 <a href="mailto:raghavakash159@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
-
 <a href="https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-
 </p>
-
----
 
 <p align="center">
 
