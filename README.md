@@ -1,6 +1,5 @@
-```markdown
 <h1 align="center">
-  Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40">, I'm Akash Raghav
+  Hi <img src="https://raw.githubusercontent.com/raghav-akash/raghav-akash/main/Hand%20Wave.gif" width="40">, I'm Akash Raghav
 </h1>
 
 <h3 align="center">
@@ -8,34 +7,32 @@ AI Engineer • Backend Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent applications using <strong>Machine Learning</strong>, <strong>LLMs</strong>, <strong>Python</strong>, and <strong>scalable backend systems</strong>.
+Building intelligent applications using Machine Learning, Large Language Models, and scalable backend systems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/raghav-akash">
-    <img src="https://komarev.com/ghpvc/?username=raghav-akash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/raghav-akash?tab=followers">
-    <img src="https://img.shields.io/github/followers/raghav-akash?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=raghav-akash&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/raghav-akash?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://github.com/raghav-akash/raghav-akash/blob/main/Night-Coding.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/raghav-akash/raghav-akash/main/Night-Coding.gif"/>
 
-I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, and **Backend Development**. I enjoy building production-ready applications that combine intelligent models with scalable software engineering.
+I'm a Software Engineer passionate about building intelligent software with **Artificial Intelligence**, **Machine Learning**, and **modern backend technologies**.
 
-- 🚀 Building AI-powered backend applications using **Python**, **FastAPI**, and **Flask**
-- 🤖 Exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **MLOps**
-- 📊 Experienced in automation, analytics, workflow engineering, and enterprise reporting
-- ☁️ Learning cloud-native architectures and scalable ML deployment
-- 💡 Always building projects that solve real-world problems
+I enjoy designing applications that combine scalable engineering with practical AI solutions.
+
+- 🤖 Building AI-powered applications using Python, FastAPI, Flask and React
+- 🧠 Interested in Applied AI, LLMs, Retrieval-Augmented Generation (RAG), AI Agents and MLOps
+- 📊 Experienced in automation, analytics, workflow engineering and enterprise reporting
+- ☁️ Learning cloud-native architectures and scalable AI deployment
+- 🚀 Always exploring new technologies and solving real-world problems
 - 📫 Reach me at **raghavakash159@gmail.com**
 
-<br clear="right"/>
+<br>
 
 ---
 
@@ -43,61 +40,50 @@ I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, a
 
 ## 🛡️ PhishHook
 
-**Machine Learning powered phishing URL detection platform**
+A production-style phishing URL detection platform built using Machine Learning.
 
-### Highlights
+### Features
 
-- Detects phishing URLs using an optimized XGBoost classifier
-- SHAP explainability for transparent model predictions
-- Redis caching for improved response time
-- Flask REST API backend
+- XGBoost phishing classifier
+- SHAP explainability
+- Redis caching
+- Flask REST API
 - Modern React frontend
-- Threshold tuning for improved phishing detection performance
-
-**Tech Stack**
-
-`Python` `Flask` `XGBoost` `SHAP` `Redis` `React` `TailwindCSS`
+- Threshold tuning for improved phishing detection
+- Clean and responsive UI
 
 ---
 
 ## 🤖 AI RAG Assistant
 
-**Production-style Retrieval-Augmented Generation chatbot**
+A Retrieval-Augmented Generation chatbot capable of context-aware conversations.
 
-### Highlights
+### Features
 
 - FastAPI backend
-- FAISS vector similarity search
+- FAISS vector search
 - Sentence Transformers embeddings
-- Persistent conversation memory using SQLite
+- Persistent memory using SQLite
 - Modular backend architecture
-- Context-aware AI responses
-
-**Tech Stack**
-
-`FastAPI` `Python` `FAISS` `SentenceTransformers` `SQLite`
+- Context-aware responses
 
 ---
 
 ## 📊 Risk Intelligence Platform
 
-**Enterprise governance and risk automation platform**
+Enterprise governance and risk automation platform.
 
-### Highlights
+### Features
 
 - Automated GRC workflows
 - Risk scoring engine
+- Enterprise reporting
 - Interactive Power BI dashboards
-- Data pipeline automation
-- Enterprise reporting and analytics
-
-**Tech Stack**
-
-`Python` `Power BI` `SQL` `ServiceNow`
+- Data automation pipelines
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -105,25 +91,17 @@ I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, a
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
 </p>
 
-### Backend
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
-
-### AI & Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- SHAP
-- FAISS
-- Sentence Transformers
 
 ### Databases
 
@@ -137,15 +115,31 @@ I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, a
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,redis"/>
 </p>
 
+### AI / Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- SHAP
+- FAISS
+- Sentence Transformers
+- NumPy
+- Pandas
+
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raghav-akash&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raghav-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-akash&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-akash&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav-akash&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -153,38 +147,50 @@ I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, a
 
 # 🎯 Currently Exploring
 
-- Applied Artificial Intelligence
-- Machine Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Backend System Design
-- AWS Cloud
-- MLOps
+- 🤖 Applied Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI Agents
+- 🚀 Machine Learning Engineering
+- ☁️ AWS Cloud
+- 🏗️ Backend System Design
+- 📦 MLOps
 
 ---
 
-# 🤝 Let's Connect
+# 💡 Philosophy
+
+```text
+Build things that solve real problems.
+
+Write clean code.
+Keep learning.
+Stay curious.
+Never stop building.
+```
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="mailto:raghavakash159@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-<a href="mailto:raghavakash159@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<a href="https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"First make it work. Then make it right. Then make it fast."*
+> *"First make it work. Then make it right. Then make it fast."*
 
-</div>
-```
+</p>
