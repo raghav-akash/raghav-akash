@@ -49,9 +49,7 @@ I enjoy designing applications that combine scalable engineering with practical 
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raghav-akash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+  
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-akash&theme=tokyonight&hide_border=true"/>
 
 </p>
