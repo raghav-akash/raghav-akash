@@ -1,62 +1,190 @@
-<h1 align="center">Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40">, I'm Akash Raghav</h1>
+```markdown
+<h1 align="center">
+  Hi <img src="https://github.com/raghav-akash/raghav-akash/blob/main/Hand%20Wave.gif" width="40">, I'm Akash Raghav
+</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
-<img alt="Night Coding" src="https://github.com/raghav-akash/raghav-akash/blob/main/Night-Coding.gif" align="right"/>
+<h3 align="center">
+AI Engineer • Backend Developer • Machine Learning Enthusiast
+</h3>
 
-- 🎓 &nbsp;I'm currently studying **Computer Science Engineering from Vellore Institute of Technology.**
-- 🌱 &nbsp;I'm currenty learning more about **Artificial Intelligence, Machine Learning and Cloud Architecture.**
-- 🔭 &nbsp;I’m currently working on **projects in Web Development.**
-- ✉️ &nbsp;You can shoot me an email at raghavakash159@gmail.com! I'll try to respond as soon as I can.
-<br>
-
-### 🛠 &nbsp;Languages and Tools
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
- </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
- <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </a>
-</p>
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/raghav-akash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghav-akash&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raghav-akash&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+Building intelligent applications using <strong>Machine Learning</strong>, <strong>LLMs</strong>, <strong>Python</strong>, and <strong>scalable backend systems</strong>.
 </p>
-<br>
 
-### 🤝🏻 &nbsp;Connect with Me
-<p align = 'left'>
-<a href = https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
-<a href ="mailto:raghavakash159@gmail.com" target='blank'> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" height='45' weight='45'/></a>
-  
-<!--
-**raghav-akash/raghav-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/raghav-akash">
+    <img src="https://komarev.com/ghpvc/?username=raghav-akash&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/raghav-akash?tab=followers">
+    <img src="https://img.shields.io/github/followers/raghav-akash?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 About Me
+
+<img align="right" alt="Coding" width="340" src="https://github.com/raghav-akash/raghav-akash/blob/main/Night-Coding.gif"/>
+
+I'm a Software Engineer passionate about **Applied AI**, **Machine Learning**, and **Backend Development**. I enjoy building production-ready applications that combine intelligent models with scalable software engineering.
+
+- 🚀 Building AI-powered backend applications using **Python**, **FastAPI**, and **Flask**
+- 🤖 Exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **MLOps**
+- 📊 Experienced in automation, analytics, workflow engineering, and enterprise reporting
+- ☁️ Learning cloud-native architectures and scalable ML deployment
+- 💡 Always building projects that solve real-world problems
+- 📫 Reach me at **raghavakash159@gmail.com**
+
+<br clear="right"/>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ PhishHook
+
+**Machine Learning powered phishing URL detection platform**
+
+### Highlights
+
+- Detects phishing URLs using an optimized XGBoost classifier
+- SHAP explainability for transparent model predictions
+- Redis caching for improved response time
+- Flask REST API backend
+- Modern React frontend
+- Threshold tuning for improved phishing detection performance
+
+**Tech Stack**
+
+`Python` `Flask` `XGBoost` `SHAP` `Redis` `React` `TailwindCSS`
+
+---
+
+## 🤖 AI RAG Assistant
+
+**Production-style Retrieval-Augmented Generation chatbot**
+
+### Highlights
+
+- FastAPI backend
+- FAISS vector similarity search
+- Sentence Transformers embeddings
+- Persistent conversation memory using SQLite
+- Modular backend architecture
+- Context-aware AI responses
+
+**Tech Stack**
+
+`FastAPI` `Python` `FAISS` `SentenceTransformers` `SQLite`
+
+---
+
+## 📊 Risk Intelligence Platform
+
+**Enterprise governance and risk automation platform**
+
+### Highlights
+
+- Automated GRC workflows
+- Risk scoring engine
+- Interactive Power BI dashboards
+- Data pipeline automation
+- Enterprise reporting and analytics
+
+**Tech Stack**
+
+`Python` `Power BI` `SQL` `ServiceNow`
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### AI & Machine Learning
+
+- Scikit-Learn
+- XGBoost
+- SHAP
+- FAISS
+- Sentence Transformers
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,redis"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=raghav-akash&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-akash&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Currently Exploring
+
+- Applied Artificial Intelligence
+- Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Backend System Design
+- AWS Cloud
+- MLOps
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/akash-raghav-aa8a7b1b1/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:raghavakash159@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"First make it work. Then make it right. Then make it fast."*
+
+</div>
+```
